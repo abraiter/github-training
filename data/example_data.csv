@@ -1,0 +1,41 @@
+person_id,age,gender,offense_type,prior_arrests,sentence_months,rearrest_12mo,bail_amount,bail_posted
+P001,21,Male,Public Order,2,14,1,4000,1
+P002,51,Male,Property,7,20,1,11000,1
+P003,46,Male,Property,3,10,0,5500,1
+P004,36,Male,Public Order,5,13,1,4000,0
+P005,36,Male,Public Order,3,10,0,4500,1
+P006,54,Female,Property,2,18,1,5500,1
+P007,21,Male,Property,6,22,0,7500,1
+P008,47,Female,Property,7,22,1,10000,0
+P009,26,Female,Drug,2,17,1,5500,1
+P010,22,Male,Property,6,14,1,9500,0
+P011,40,Male,Drug,2,8,0,4500,1
+P012,59,Male,Property,5,14,0,8500,1
+P013,49,Female,Violent,6,27,0,13500,0
+P014,50,Male,Drug,3,7,0,4500,0
+P015,48,Male,Drug,5,18,1,6500,1
+P016,51,Female,Drug,2,10,0,4000,0
+P017,40,Female,Drug,0,2,1,3000,1
+P018,23,Male,Public Order,0,1,1,1500,1
+P019,54,Female,Property,3,16,1,8000,1
+P020,37,Male,Public Order,7,19,0,6500,0
+P021,39,Male,Public Order,1,14,1,3500,1
+P022,33,Male,Property,3,26,0,5500,0
+P023,25,Male,Violent,5,29,1,14500,1
+P024,57,Female,Drug,1,6,1,3500,0
+P025,51,Male,Drug,5,7,0,8000,0
+P026,45,Male,Drug,2,12,0,4500,1
+P027,35,Male,Public Order,6,11,1,7500,1
+P028,53,Female,Property,4,14,1,8000,1
+P029,41,Male,Drug,4,12,0,5500,0
+P030,37,Female,Property,1,11,1,4000,0
+P031,37,Female,Drug,3,17,0,5500,1
+P032,27,Female,Public Order,6,15,1,7000,0
+P033,21,Male,Property,0,9,1,3000,1
+P034,41,Male,Property,6,15,1,8000,0
+P035,56,Male,Property,3,8,0,7500,0
+P036,20,Male,Public Order,5,11,1,6500,1
+P037,54,Male,Property,5,17,1,9000,1
+P038,53,Male,Drug,3,20,0,6500,1
+P039,29,Female,Drug,2,12,0,5000,1
+P040,45,Female,Violent,5,31,0,15500,0
