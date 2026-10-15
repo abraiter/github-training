@@ -20,7 +20,6 @@ The data and examples in this repository are fake and are for training purposes 
 
 Participants will practice how to:
 
-- Use GitHub
 - Clone a repository
 - View file changes
 - Stage and commit changes
