@@ -8,7 +8,7 @@ Instructions:
 5. Add, commit, and push your change.
 
 Participant 1: Hi I'm ava
-Participant 2:
+Participant 2: No, I'm Ava
 Participant 3:
 Participant 4:
 Participant 5:
